@@ -1,0 +1,15 @@
+.black, .yellow{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
+
+.yellow{
+    background-color: yellow;
+    color: black;
+
+}
